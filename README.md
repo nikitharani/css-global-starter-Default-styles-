@@ -1,2 +1,2 @@
-# CSS-Practise
-This is just for practise purpose
+# CSS-Default styles
+Css styles for all projects
